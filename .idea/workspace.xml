@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5d2d452-2a5b-4a4f-b522-2d30506aae63" name="Default Changelist" comment="Solution complete" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EchoServer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5KCDavPgQ4f0dMkzbjKLGDwAU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EchoClient with args">
+    <configuration name="EchoClient with args" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EchoClient" />
+      <module name="EchoServer" />
+      <option name="PROGRAM_PARAMETERS" value="-h" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoClient" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EchoClient" />
+      <module name="EchoServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer with args" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EchoServer" />
+      <module name="EchoServer" />
+      <option name="PROGRAM_PARAMETERS" value="-h" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EchoServer" />
+      <module name="EchoServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Echo Server/Client" type="CompoundRunConfigurationType">
+      <toRun name="EchoClient GET" type="Application" />
+      <toRun name="EchoServer" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="EchoClient GET" type="Application" />
+      <toRun name="EchoServer" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EchoClient with args" />
+      <item itemvalue="Application.EchoClient" />
+      <item itemvalue="Application.EchoServer" />
+      <item itemvalue="Application.EchoServer with args" />
+      <item itemvalue="Compound.Echo Server/Client" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5d2d452-2a5b-4a4f-b522-2d30506aae63" name="Default Changelist" comment="" />
+      <created>1580330385406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580330385406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solution complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution complete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="128" key="#Notifications" timestamp="1580363965956">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="128" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1580363965956" />
+    <state x="320" y="128" width="813" height="666" key="#Project_Structure" timestamp="1580330411323">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="128" width="813" height="666" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1580330411323" />
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580364191594">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1580364191594" />
+    <state x="507" y="175" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580341753438">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="175" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.877@0.23.1440.877" timestamp="1580341753438" />
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580341094121">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1580341094121" />
+    <state x="408" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580336019708">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="408" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1580336019708" />
+    <state x="318" y="68" key="CommitChangelistDialog2" timestamp="1580363802656">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="318" y="68" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580363802656" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1580363596759">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580363596759" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center" timestamp="1580363596758">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580363596758" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left" timestamp="1580363596758">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580363596758" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right" timestamp="1580363596758">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580363596758" />
+    <state width="699" height="285" key="GridCell.Tab.1.bottom" timestamp="1580362495791">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="699" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580362495791" />
+    <state width="699" height="285" key="GridCell.Tab.1.center" timestamp="1580362495791">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="699" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1580362495791" />
+    <state width="699" height="285" key="GridCell.Tab.1.left" timestamp="1580362495790">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="699" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1580362495790" />
+    <state width="699" height="285" key="GridCell.Tab.1.right" timestamp="1580362495791">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="699" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1580362495791" />
+    <state x="208" y="44" key="SettingsEditor" timestamp="1580363961731">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580363961731" />
+  </component>
+</project>
