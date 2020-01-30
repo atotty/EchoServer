@@ -48,9 +48,9 @@ indicate where you should add and/or modify code. The Echo protocol is defined a
 ## Evaluation
 Your project submission will be evaluated as follows. 
 - (5 pts.) Both `EchoServer` and `EchoClient` compile without errors. 
-- (5 pts.) `EchoServer` correctly echos valid requests from `EchoClient`. 
-- (5 pts.) `EchoServer` sends the message `"INVALID"` for requests with malformed methods. 
-- (5 pts.) `EchoServer` sends the message `"INVALID"` for requests with malformed paths.
+- (10 pts.) `EchoServer` correctly echos valid requests from `EchoClient`. 
+- (10 pts.) `EchoServer` sends the message `"INVALID"` for requests with malformed methods. 
+- (10 pts.) `EchoServer` sends the message `"INVALID"` for requests with malformed paths.
 - (5 pts.) You have completed student_readme.md to describe your approach to solving the problems you encountered while completing the project. This need not be a diary, but your approach should be clearly explained here.
     - What challenges did you face while completing the project? How did you address them?  
     - How did you test your code? Explicitly describe examples of your test cases. 
