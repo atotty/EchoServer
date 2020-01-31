@@ -13,7 +13,7 @@ import java.util.List;
 public class EchoServer {
     public static void main(String[] args) {
         ServerSocket serverSocket = null;
-        int port = 80;
+        int port = 8080;
         String request = null;
         String response = null;
 

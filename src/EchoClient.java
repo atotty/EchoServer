@@ -12,7 +12,7 @@ public class EchoClient {
     public static void main(String[] args) {
         // You may choose to change these values for testing your code
         String server = "127.0.0.1"; // 127.0.0.1 is localhost on most systems
-        int port = 80;
+        int port = 8080;
         String requestPath= "/this/is/a/test";
 
         String request = null;
