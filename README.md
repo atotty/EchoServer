@@ -37,10 +37,10 @@ Your job in this project is to implement the Echo protocol in `EchoServer` and `
 indicate where you should add and/or modify code. The Echo protocol is defined as follows: 
 - Messages requesting a resource must be a string of the form `"GET /path/to/resource"` to be considered syntactically valid.
     - The message must include the request method `GET` followed by exactly one space to be considered valid. 
-    - `"/path/to/resource"` is a file path describing the requested resource and can have any number of backslashes separated by strings. 
-    - The path of the requested resource must begin with a backslash to be considered valid. 
+    - `"/path/to/resource"` is a file path describing the requested resource and can have any number of forwardslashes separated by strings. 
+    - The path of the requested resource must begin with a forwardslash to be considered valid. 
     - The path of the requested resource cannot have any consecutive backslashes to be considered valid. 
-    - The path of the requested resource may or may not end in a backslash (either is considered valid). 
+    - The path of the requested resource may or may not end in a forwardslash (either is considered valid). 
     - The path of the requested resource should not contain spaces without being escaped (i.e. `"\ "`) to be considered valid.
 - The server responds to invalid requests by sending the client the message `"INVALID"`. 
 - The server responds to valid requests by sending the client the message `"You requested /path/to/resource"`.   
