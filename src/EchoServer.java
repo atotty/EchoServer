@@ -59,6 +59,7 @@ public class EchoServer {
             serverSocket = new ServerSocket(port);
         } catch (IOException e) {
             e.printStackTrace();
+            return;
         }
 
         System.out.println("Server listening on port " + port);

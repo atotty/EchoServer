@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d2d452-2a5b-4a4f-b522-2d30506aae63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,14 +137,22 @@
       <option name="project" value="LOCAL" />
       <updated>1580364916097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update default port 8080">
+      <created>1580502902163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580502902163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solution complete" />
     <MESSAGE value="Student version init 2019-20" />
     <MESSAGE value="Update rubric (total 40 pts)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update rubric (total 40 pts)" />
+    <MESSAGE value="Update default port 8080" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update default port 8080" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="128" key="#Notifications" timestamp="1580363965956">
@@ -172,10 +179,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1580336019708" />
-    <state x="318" y="68" key="CommitChangelistDialog2" timestamp="1580364915945">
+    <state x="318" y="68" key="CommitChangelistDialog2" timestamp="1580502901967">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="318" y="68" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580364915945" />
+    <state x="318" y="68" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580502901967" />
     <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1580363596759">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -212,13 +219,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580363961731" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1580364931629">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1580502934698">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580364931629" />
-    <state x="503" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580502867457">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580502934698" />
+    <state x="503" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580502928240">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="503" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1580502867457" />
+    <state x="503" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1580502928240" />
   </component>
 </project>
