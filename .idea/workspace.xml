@@ -55,7 +55,7 @@
     <configuration name="EchoClient with args" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EchoClient" />
       <module name="EchoServer" />
-      <option name="PROGRAM_PARAMETERS" value="-h" />
+      <option name="PROGRAM_PARAMETERS" value="-r /this/is/a/test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580502902163</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add return to exit server on bind fail.">
+      <created>1581026487299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581026487299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,7 +159,8 @@
     <MESSAGE value="Student version init 2019-20" />
     <MESSAGE value="Update rubric (total 40 pts)" />
     <MESSAGE value="Update default port 8080" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update default port 8080" />
+    <MESSAGE value="Add return to exit server on bind fail." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add return to exit server on bind fail." />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="128" key="#Notifications" timestamp="1580363965956">
@@ -163,10 +171,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="128" width="813" height="666" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1580330411323" />
-    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580364191594">
+    <state x="369" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581026724453">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1580364191594" />
+    <state x="369" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1581026724452" />
     <state x="507" y="175" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580341753438">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -179,50 +187,50 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="206" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1580336019708" />
-    <state x="318" y="68" key="CommitChangelistDialog2" timestamp="1580502901967">
+    <state x="318" y="68" key="CommitChangelistDialog2" timestamp="1581026487057">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="318" y="68" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580502901967" />
-    <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1580363596759">
+    <state x="318" y="68" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1581026487057" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1581026725866">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580363596759" />
-    <state width="1398" height="248" key="GridCell.Tab.0.center" timestamp="1580363596758">
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581026725866" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center" timestamp="1581026725865">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580363596758" />
-    <state width="1398" height="248" key="GridCell.Tab.0.left" timestamp="1580363596758">
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581026725865" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left" timestamp="1581026725865">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580363596758" />
-    <state width="1398" height="248" key="GridCell.Tab.0.right" timestamp="1580363596758">
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581026725865" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right" timestamp="1581026725866">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580363596758" />
-    <state width="699" height="285" key="GridCell.Tab.1.bottom" timestamp="1580362495791">
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581026725866" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1581026549943">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580362495791" />
-    <state width="699" height="285" key="GridCell.Tab.1.center" timestamp="1580362495791">
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581026549943" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1581026549941">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1580362495791" />
-    <state width="699" height="285" key="GridCell.Tab.1.left" timestamp="1580362495790">
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1581026549941" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1581026549939">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1580362495790" />
-    <state width="699" height="285" key="GridCell.Tab.1.right" timestamp="1580362495791">
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1581026549939" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1581026549942">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="699" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1580362495791" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581026549942" />
     <state x="208" y="44" key="SettingsEditor" timestamp="1580363961731">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580363961731" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1580502934698">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1581026489308">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580502934698" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1581026489308" />
     <state x="503" y="386" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580502928240">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

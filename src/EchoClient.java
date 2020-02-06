@@ -125,7 +125,7 @@ public class EchoClient {
                 "\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" +
                 "\nEchoClient \n\tRepresents a client that connects to an EchoServer and sends requests." +
                 "\n\nOptions:" +
-                        "\n\t-s, --server: Specify the server to contact." +
+                        "\n\t-s, --server : Specify the server to contact." +
                         "\n\t-p, --port : Specify the server's port for establishing a connection." +
                         "\n\t-r, --request : Specify the resource you wish to request." +
                         "\n\t-h, --help : Print this message." +
