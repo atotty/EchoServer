@@ -7,14 +7,16 @@ class Main {
     
     // start the client
     new Thread(() -> { 
-      EchoClient.main(args); 
+      String[] request = {"-r", "/this/is/a/test"};
+      EchoClient.main(request);
     }).start();
 
     // additional client calls can go here
     // pass args into main if desired
 
     // new Thread(() -> { 
-    //   EchoClient.main(args); 
+    //   String[] request = {"-r", "/this/is/a/test"};
+    //   EchoClient.main(request);
     // }).start();
   }
 }
