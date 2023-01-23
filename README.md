@@ -39,7 +39,7 @@ indicate where you should add and/or modify code. The Echo protocol is defined a
     - The message must include the request method `GET` followed by exactly one space to be considered valid. 
     - `"/path/to/resource"` is a file path describing the requested resource and can have any number of forwardslashes separated by strings. 
     - The path of the requested resource must begin with a forwardslash to be considered valid. 
-    - The path of the requested resource cannot have any consecutive backslashes to be considered valid. 
+    - The path of the requested resource cannot have any consecutive forwardslashes to be considered valid. 
     - The path of the requested resource may or may not end in a forwardslash (either is considered valid). 
     - The path of the requested resource should not contain spaces without being escaped (i.e. `"\ "`) to be considered valid.
 - The server responds to invalid requests by sending the client the message `"INVALID"`. 
